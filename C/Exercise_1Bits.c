@@ -8,16 +8,12 @@ int main(int argc, const char* argv[])
 	{
 		countBits(atoi(argv[1]));		
 	}
-	else
-	{
-		return 1;
-	}
 }
 
 size_t countBits(unsigned value)
 {
 	unsigned bin_dig;
-	long count = 0;
+	long count = 0;  // declared long because function returns an unsigned long long
 	while (value > 0)
 	{
 		bin_dig = value % 2;
