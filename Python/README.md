@@ -7,3 +7,5 @@ Good lesson on the regex [**\Z** symbol.](https://www.regular-expressions.info/a
 A triangle has different rows. Each row means how many odd numbers are in it. The starting point is on the website, but I've defined it in my function. The simpler solution is simply the cubic of the number of elements per row.
 
 # Exercise 3
+
+Filter strings out of iterable
