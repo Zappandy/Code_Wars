@@ -9,3 +9,11 @@ A triangle has different rows. Each row means how many odd numbers are in it. Th
 # Exercise 3
 
 Filter strings out of iterable
+
+# Exercise 4
+
+Implement camel case
+
+# Exercise 5
+
+Decoding Morse code
